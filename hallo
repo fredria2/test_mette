@@ -1,2 +1,4 @@
 print("HALLO")
 print("Hvem er du?")
+
+print("Jeg er Fredrik")
